@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: "lato";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #f3f2ef;
+  color: #585858;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
